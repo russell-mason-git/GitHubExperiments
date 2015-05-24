@@ -6,7 +6,7 @@
 		{
 			var log = new Log();
 
-			log.Output("Test");
+			log.Output("Test - 1");
 		}
 	}
 }
